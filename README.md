@@ -11,11 +11,11 @@ Passionate about building mobile applications and continuously improving my deve
 
 ## 👨‍💻 About Me
 
-- 🎓 BS Software Engineering (6th Semester)
+- 🎓 BS Software Engineering Student
 - 📱 Focused on Flutter Mobile App Development
-- 🗄 Strong understanding of DBMS & SQL
+- 🗄 Good understanding of Database Systems (DBMS) and SQL
 - 📊 Basic Data Analytics & Dashboard Creation
-- 🎨 Creative thumbnail & social media design skills
+
 
 ---
 
